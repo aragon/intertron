@@ -1,0 +1,21 @@
+{
+  "name": "intertron",
+  "version": "1.0.1",
+  "description": "IPC for Electron",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AragonOne/intertron.git"
+  },
+  "keywords": [
+    "electron",
+    "ipc",
+    "communication"
+  ],
+  "author": "Luis Cuende <me@luisivan.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AragonOne/intertron/issues"
+  },
+  "homepage": "https://github.com/AragonOne/intertron#readme"
+}
